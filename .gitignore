@@ -1,0 +1,27 @@
+# NC files
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.eps
+*.pdf
+*.npy
+*.biofile
+*.json
+*.csv
+*.txt
+*.err
+*.pth
+*.out
+
+data/
+outputs/
+logs/
+*.h5
+*.pt
+*.npy
+
+__pycache__/
+models/
+logs/
+data/
